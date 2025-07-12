@@ -11,7 +11,7 @@ export default function RightSection() {
 
       <div className="flex flex-col sm:flex-row gap-4">
         <a
-          href="https://www.google.com/maps/place/Sarada+Traders/@23.8594173,91.2912723,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f153fdd83073:0x1bba577004b27e1f"
+          href="https://maps.app.goo.gl/KAok2jjFjuuh56yHA?g_st=aw"
           target="_blank"
           className="bg-cyan-600 text-white px-6 py-3 rounded-full hover:bg-cyan-400 transition text-sm md:text-base"
         >
