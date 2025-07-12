@@ -1,5 +1,6 @@
 {
   "name": "sarada-t",
+  "homepage": "https://nirmitadebnath.github.io/sarada-t/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,6 +30,5 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
     "vite": "^7.0.4"
-  },
-  "homepage": "https://nirmitadebnath.github.io/sarada-t/"
+  }
 }
